@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>medium editor | demo</title>
+    <link rel="stylesheet" href="/normalize.css">
+    <link rel="stylesheet" href="/medium-editor.css">
+    <style>
+    </style>
+</head>
+<body>
+    <div id="container" style="width:800px">
+        <div class="editable" data-placeholder="Type some text" data-disable-return="true">
+            <br/><br/><br/><br/><br/>
+            <p>02/13/2013</p>
+        </div>
+        <div class="editable" data-placeholder="Type some text">
+            
+
+            <p>This is to certify that Ms. Jane Doe is a full time employee holding the designation of a Senior Content Writer and a Trainer. She has been with us from the past three years, since 02/13/2009. Her monthly salary is $20,000.</p>
+
+            <p>John Doe</p>
+            <p>Manger</p>
+        </div>
+        <div class="editable"></div>
+        <div class="editable" data-placeholder="Type your post"></div>
+    </div>
+    <script src="/medium-editor.js"></script>
+    <script>
+        var editor = new MediumEditor('.editable');
+    </script>
+</body>
+</html>
