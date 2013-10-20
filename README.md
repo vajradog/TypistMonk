@@ -1,8 +1,24 @@
 <p>TypistMonk provides a simple, easy and quick way to edit a sample letter or write your own on the browser and print it with ease, without the need to open a text editor or login to an online service etc. Basically a 'point-and-shoot' text editor.</p>
 
 
-<p>I started and built the site with the amazing <a href="http://rubyonrails.org"> Ruby on Rails</a> framework. Eventhough the current site does not use much of what Rails offer, however as the Tibetan saying goes,<strong><em>"build the dam before the flood comes",</em> </strong>the decision to use rails was made to facilitate any dynamic feature we may need in the future. </p>
+
+<p>The intention to create this website is to provide a simple, easy and quick way to edit a sample letter or write your own wihtin the browser and print it with ease, without the need to open a text editor or login to an online service. Basically a 'point-and-shoot' text editor. </p>
+
+<p>To make it secure and private (and to keep it free), nothing is saved on this website. Once you refresh or close the editor, the session will end and automatically delete whatever was done before.</p>
+
+<p>Again, the information and services provided here DOES NOT substitute for professional advice. You are using these FREE services of this website at your own risk.</p>
+</div><br/>
+
+
+<h2>For the curious types:</h2>
+<p>I started and built the site with the amazing <a href="http://rubyonrails.org"> Ruby on Rails</a> framework. Eventhough the current site does not use much of what Rails has to offer, however as the Tibetan saying goes,<strong><em>"build the dam before the flood comes",</em> </strong>the decision to use rails was made to facilitate any dynamic feature we may need in the future.</p>
 
 <p>The text editor is based on <a href="https://github.com/daviferreira">David Ferreira's</a> clone of the beautiful inline editor toolbar <a href="https://medium.com">medium editor</a> and  was written in vanilla Javascript.</p>
 
-<p>The front-end framework is <a href="http://getbootstrap.com">Twitter's bootstrap.</a> This website lives in <a href="http://github.com">Github</a>, runs from <a href="http://heroku.com">Heroku</a> and was made with love by Thupten N. Chakrishar.</p>
+
+<p>I am not an English major or a lawyer, so I googled sample letters online and edited them slightly.</p>
+
+<p>The front-end framework is <a href="http://getbootstrap.com">Twitter's bootstrap.</a> This website lives in <a href="http://github.com">Github</a>, runs from <a href="http://heroku.com">Heroku</a> and was made with love by me, Thupten N. Chakrishar.
+</div><br/>
+
+         
