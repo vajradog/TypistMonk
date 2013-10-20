@@ -21,7 +21,7 @@
 <p>The front-end framework is <a href="http://getbootstrap.com">Twitter's bootstrap.</a> This website lives in <a href="http://github.com">Github</a>, runs from <a href="http://heroku.com">Heroku</a> and was made with love by me, Thupten N. Chakrishar.
 </div><br/>
 
-The MIT License (MIT)
+<h3>The MIT License (MIT)</h3>
 
 Copyright (c) Thupten N. Chakrishar
 
