@@ -1,6 +1,6 @@
+<a href="http://www.typistmonk.com/">www.typistmonk.com</a>
+
 <p>TypistMonk provides a simple, easy and quick way to edit a sample letter or write your own on the browser and print it with ease, without the need to open a text editor or login to an online service etc. Basically a 'point-and-shoot' text editor.</p>
-
-
 
 <p>The intention to create this website is to provide a simple, easy and quick way to edit a sample letter or write your own wihtin the browser and print it with ease, without the need to open a text editor or login to an online service. Basically a 'point-and-shoot' text editor. </p>
 
